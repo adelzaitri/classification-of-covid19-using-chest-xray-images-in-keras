@@ -21,8 +21,8 @@ Project Steps:
 Data Sample:
 =====
 
-![Data Sample](sample_data.png)
+![Data Sample](/images/sample_data.png)
 
 Convolutional Neural Network Model Details:
 ========
-![CNN Model](model_details_cnn.jpg)
+![CNN Model](/images/model_details_cnn.jpg)
