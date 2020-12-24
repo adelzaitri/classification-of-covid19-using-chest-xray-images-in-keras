@@ -2,7 +2,7 @@
 
 Goals:
 ======
-* Predict whether a Chest X-ray if a COVID-19 diagnosis or not
+* Predict whether a Chest X-ray is a COVID-19 diagnosis or not
 * Build and Train the Convolutional Neural Network using Keras with Tensorflow as Backend
 * Visualize Data in Matplotlib
 * Make use of the Trained Model to Predict on a New Set of Data
