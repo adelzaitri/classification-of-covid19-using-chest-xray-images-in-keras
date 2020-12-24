@@ -1,4 +1,4 @@
-# classification-of-covid19-using-chest-xray-images-in-keras
+# Classification of COVID19 using Chest X-ray Images using Convolutional Neural Network
 
 Goals:
 ======
