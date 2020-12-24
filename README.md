@@ -17,3 +17,12 @@ Project Steps:
 6. Compile and Train the Model
 7. Performance Evaluation
 8. Prediction on New Data
+
+Data Sample:
+=====
+
+![Data Sample](sample_data.png)
+
+Convolutional Neural Network Model Details:
+========
+![CNN Model](model_details_cnn.jpg)
