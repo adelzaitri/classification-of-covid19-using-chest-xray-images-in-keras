@@ -1,4 +1,4 @@
-# Classification of COVID19 using Chest X-ray Images using Convolutional Neural Network
+# Classification of COVID19 Chest X-ray Images using Convolutional Neural Network
 
 Goals:
 ======
