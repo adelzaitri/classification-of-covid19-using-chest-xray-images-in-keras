@@ -26,3 +26,10 @@ Data Sample:
 Convolutional Neural Network Model Details:
 ========
 ![CNN Model](/images/model_details_cnn.jpg)
+
+Model Evaluation:
+====
+Accuracy on test data: 0.9752
+Accuracy during the training and validation: 
+
+![accuracy of training and validation](/images/training_accuracy.png)
